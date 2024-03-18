@@ -1,0 +1,12 @@
+{
+  "name": "login-form_interior",
+  "version": "1.0.0",
+  "description": "I built a 3D Effect login form using Html and Css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
